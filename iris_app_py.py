@@ -48,4 +48,3 @@ st.success(f"La flor es probablemente una **{especie}**.")
 st.subheader("📊 Precisión del modelo:")
 st.info(f"{accuracy * 100:.2f}% en datos de prueba.")
 
-streamlit run iris_app.py
